@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6f2daa9c.chunk.css",
+    "main.css": "/portfolio/static/css/main.4e2d6222.chunk.css",
     "main.js": "/portfolio/static/js/main.c89bb5c4.chunk.js",
     "main.js.map": "/portfolio/static/js/main.c89bb5c4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
@@ -8,7 +8,7 @@
     "static/js/2.01fd1b07.chunk.js": "/portfolio/static/js/2.01fd1b07.chunk.js",
     "static/js/2.01fd1b07.chunk.js.map": "/portfolio/static/js/2.01fd1b07.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.6f2daa9c.chunk.css.map": "/portfolio/static/css/main.6f2daa9c.chunk.css.map",
+    "static/css/main.4e2d6222.chunk.css.map": "/portfolio/static/css/main.4e2d6222.chunk.css.map",
     "static/js/2.01fd1b07.chunk.js.LICENSE.txt": "/portfolio/static/js/2.01fd1b07.chunk.js.LICENSE.txt",
     "static/media/Weather.2b6fb8d7.jpeg": "/portfolio/static/media/Weather.2b6fb8d7.jpeg",
     "static/media/fura.75a078d2.jpeg": "/portfolio/static/media/fura.75a078d2.jpeg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/js/2.01fd1b07.chunk.js",
-    "static/css/main.6f2daa9c.chunk.css",
+    "static/css/main.4e2d6222.chunk.css",
     "static/js/main.c89bb5c4.chunk.js"
   ]
 }
